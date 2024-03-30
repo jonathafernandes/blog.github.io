@@ -22,8 +22,8 @@ export default {
       quote: "Quote",
     },
     backlinks: {
-      title: "Backlinks",
-      noBacklinksFound: "No backlinks found",
+      title: "Links de saída",
+      noBacklinksFound: "Nenhum link encontrado",
     },
     themeToggle: {
       lightMode: "Light mode",
@@ -33,13 +33,13 @@ export default {
       title: "Explorer",
     },
     footer: {
-      createdWith: "Created with",
+      createdWith: "Criado com",
     },
     graph: {
-      title: "Graph View",
+      title: "Vizualização em gráfico",
     },
     recentNotes: {
-      title: "Recent Notes",
+      title: "Posts recentes",
       seeRemainingMore: ({ remaining }) => `See ${remaining} more →`,
     },
     transcludes: {
@@ -47,14 +47,14 @@ export default {
       linkToOriginal: "Link to original",
     },
     search: {
-      title: "Search",
-      searchBarPlaceholder: "Search for something",
+      title: "Pesquisa",
+      searchBarPlaceholder: "Pesquise por algo",
     },
     tableOfContents: {
       title: "Table of Contents",
     },
     contentMeta: {
-      readingTime: ({ minutes }) => `${minutes} min read`,
+      readingTime: ({ minutes }) => `${minutes} min de leitura`,
     },
   },
   pages: {
