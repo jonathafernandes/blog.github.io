@@ -1,14 +1,15 @@
 ---
 title: Início
+date: 2024-03-30
 ---
 # Tecnologia em foco: explore o mundo do desenvolvimento web
 
 ## Seja bem-vindo(a)! 👋
 
 Bem-vindo ao fascinante universo do desenvolvimento web, onde a tecnologia e a criatividade se encontram para criar experiências incríveis na internet! Neste espaço, você terá a oportunidade de mergulhar em conceitos importantes, experiências e aprendizados que venho obtendo durante minha trajetória. 
-### O que você vai aprender aqui?
+### O que você vai ver por aqui?
 
-Vamos abordar uma variedade de tópicos relacionados ao desenvolvimento web, incluindo:
+Vou abordar uma variedade de tópicos relacionados ao desenvolvimento web, incluindo:
 
 - Linguagens de programação como HTML, CSS, JavaScript, Python e mais.
 - Frameworks e bibliotecas populares como React, Angular, Vue.js e Node.js.
@@ -25,10 +26,15 @@ Este conteúdo é destinado a todos que estão interessados em aprender mais sob
 Então, prepare-se para embarcar em uma jornada empolgante e desafiadora pelo mundo do desenvolvimento web. Fique à vontade para explorar os artigos, tutoriais, dicas e recursos que preparei especialmente para você. Seja bem-vindo(a) ao nosso universo tecnológico e vamos aprender juntos a construir o futuro da web! 🌐🚀
 
 ---
+<div style="display: flex; align-items: center; gap: 0.5rem;">
+	<img src="https://github.com/jonathafernandes.png" style="border-radius: 50%; width: 60px;" />
+	<p>Jonatha Fernandes
+		<br />
+		<i>Desenvolvedor Web</i>
+	</p>
+</div>
 
-Jonatha Fernandes • Desenvolvedor Web
-
-[Saiba mais sobre mim](https://jonathafernandes.vercel.app/)
+[Sobre mim](https://jonathafernandes.vercel.app/)
 
 
 ---
