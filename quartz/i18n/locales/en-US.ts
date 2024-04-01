@@ -67,9 +67,9 @@ export default {
       notFound: "Esta página não existe ou foi removida.",
     },
     folderContent: {
-      folder: "Folder",
+      folder: "Pasta",
       itemsUnderFolder: ({ count }) =>
-        count === 1 ? "1 item under this folder." : `${count} items under this folder.`,
+        count === 1 ? "1 item nesta pasta." : `${count} items nesta pasta.`,
     },
     tagContent: {
       tag: "Tag",
