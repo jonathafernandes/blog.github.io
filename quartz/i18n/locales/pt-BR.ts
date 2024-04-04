@@ -23,7 +23,7 @@ export default {
     },
     backlinks: {
       title: "Backlinks",
-      noBacklinksFound: "Sem backlinks encontrados",
+      noBacklinksFound: "Nenhum backlink encontrado",
     },
     themeToggle: {
       lightMode: "Tema claro",
@@ -39,7 +39,7 @@ export default {
       title: "Visão de gráfico",
     },
     recentNotes: {
-      title: "Notas recentes",
+      title: "Posts recentes",
       seeRemainingMore: ({ remaining }) => `Veja mais ${remaining} →`,
     },
     transcludes: {
@@ -54,13 +54,13 @@ export default {
       title: "Sumário",
     },
     contentMeta: {
-      readingTime: ({ minutes }) => `Leitura de ${minutes} min`,
+      readingTime: ({ minutes }) => `${minutes} min de leitura`,
     },
   },
   pages: {
     rss: {
-      recentNotes: "Notas recentes",
-      lastFewNotes: ({ count }) => `Últimas ${count} notas`,
+      recentNotes: "Posts recentes",
+      lastFewNotes: ({ count }) => `Últimos ${count} posts`,
     },
     error: {
       title: "Não encontrado",
@@ -69,7 +69,7 @@ export default {
     folderContent: {
       folder: "Arquivo",
       itemsUnderFolder: ({ count }) =>
-        count === 1 ? "1 item mneste arquivo." : `${count} items neste arquivo.`,
+        count === 1 ? "1 item neste arquivo." : `${count} items neste arquivo.`,
     },
     tagContent: {
       tag: "Tag",

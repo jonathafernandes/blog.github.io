@@ -33,7 +33,7 @@ export default {
       title: "탐색기",
     },
     footer: {
-      createdWith: "Criado com",
+      createdWith: "Created with",
     },
     graph: {
       title: "그래프 뷰",

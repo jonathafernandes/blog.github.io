@@ -22,8 +22,8 @@ export default {
       quote: "Quote",
     },
     backlinks: {
-      title: "Links de saída",
-      noBacklinksFound: "Nenhum link encontrado",
+      title: "Backlinks",
+      noBacklinksFound: "No backlinks found",
     },
     themeToggle: {
       lightMode: "Light mode",
@@ -33,13 +33,13 @@ export default {
       title: "Explorer",
     },
     footer: {
-      createdWith: "Criado com",
+      createdWith: "Created with",
     },
     graph: {
-      title: "Vizualização em gráfico",
+      title: "Graph View",
     },
     recentNotes: {
-      title: "Posts recentes",
+      title: "Recent Notes",
       seeRemainingMore: ({ remaining }) => `See ${remaining} more →`,
     },
     transcludes: {
@@ -47,14 +47,14 @@ export default {
       linkToOriginal: "Link to original",
     },
     search: {
-      title: "Pesquisa",
-      searchBarPlaceholder: "Pesquise por algo",
+      title: "Search",
+      searchBarPlaceholder: "Search for something",
     },
     tableOfContents: {
       title: "Table of Contents",
     },
     contentMeta: {
-      readingTime: ({ minutes }) => `${minutes} min de leitura`,
+      readingTime: ({ minutes }) => `${minutes} min read`,
     },
   },
   pages: {
@@ -64,12 +64,12 @@ export default {
     },
     error: {
       title: "Not Found",
-      notFound: "Esta página não existe ou foi removida.",
+      notFound: "Either this page is private or doesn't exist.",
     },
     folderContent: {
-      folder: "Pasta",
+      folder: "Folder",
       itemsUnderFolder: ({ count }) =>
-        count === 1 ? "1 item nesta pasta." : `${count} items nesta pasta.`,
+        count === 1 ? "1 item under this folder." : `${count} items under this folder.`,
     },
     tagContent: {
       tag: "Tag",
