@@ -1,6 +1,10 @@
 ---
 title: Guia rápido de comandos do Git
-date: 2024-04-01
+date: 2024-04-03
+tags:
+  - "#guia"
+  - "#git"
+  - "#github"
 ---
 Git é um sistema de controle de versão distribuído utilizado principalmente para rastrear e gerenciar mudanças no código-fonte durante o desenvolvimento de software. Ele permite que vários desenvolvedores trabalhem simultaneamente em um projeto, mantendo um histórico completo das alterações feitas ao longo do tempo. Com o Git, os usuários podem criar branches (ramificações) para desenvolver recursos ou corrigir bugs sem afetar a versão principal do código e, posteriormente, mesclar essas branches de volta à versão principal (normalmente conhecida como branch `master` ou `main`).
 
