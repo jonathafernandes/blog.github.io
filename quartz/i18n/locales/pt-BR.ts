@@ -69,13 +69,13 @@ export default {
     folderContent: {
       folder: "Arquivo",
       itemsUnderFolder: ({ count }) =>
-        count === 1 ? "1 item neste arquivo." : `${count} items neste arquivo.`,
+        count === 1 ? "1 item neste arquivo." : `${count} itens neste arquivo.`,
     },
     tagContent: {
       tag: "Tag",
       tagIndex: "Sumário de Tags",
       itemsUnderTag: ({ count }) =>
-        count === 1 ? "1 item com esta tag." : `${count} items com esta tag.`,
+        count === 1 ? "1 item com esta tag." : `${count} itens com esta tag.`,
       showingFirst: ({ count }) => `Mostrando as ${count} primeiras tags.`,
       totalTags: ({ count }) => `Encontradas ${count} tags.`,
     },

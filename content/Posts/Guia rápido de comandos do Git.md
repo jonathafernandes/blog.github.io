@@ -6,6 +6,8 @@ tags:
   - "#git"
   - "#github"
 ---
+<img src="../Images/guia-rapido-git.png" alt="" />
+
 Git é um sistema de controle de versão distribuído utilizado principalmente para rastrear e gerenciar mudanças no código-fonte durante o desenvolvimento de software. Ele permite que vários desenvolvedores trabalhem simultaneamente em um projeto, mantendo um histórico completo das alterações feitas ao longo do tempo. Com o Git, os usuários podem criar branches (ramificações) para desenvolver recursos ou corrigir bugs sem afetar a versão principal do código e, posteriormente, mesclar essas branches de volta à versão principal (normalmente conhecida como branch `master` ou `main`).
 
 Usar o Git desde o início dos estudos em desenvolvimento web é fundamental por diversas razões. O Git oferece controle de versão, permitindo rastrear e gerenciar mudanças no código ao longo do tempo. Facilita a colaboração entre desenvolvedores, possibilitando que trabalhem simultaneamente em um projeto através do uso de branches. Além disso, aprender a usar o Git é uma habilidade prática essencial para qualquer desenvolvedor, promovendo uma abordagem estruturada e organizada ao desenvolvimento de software. Utilizar o Git também incentiva a adoção de melhores práticas de desenvolvimento, como commits frequentes e revisão de código.
@@ -60,9 +62,10 @@ Algo que me ajuda durante o trabalho e os estudos é ter sempre por perto um gui
 ---
 <div style="display: flex; align-items: center; gap: 0.5rem;">
 	<img src="https://github.com/jonathafernandes.png" style="border-radius: 50%; width: 60px;" />
-	<p>Jonatha Fernandes
+	<p>
+		<strong>Jonatha Fernandes</strong>
 		<br />
-		<i>Desenvolvedor Web</i>
+		<span style="opacity: 0.8;">Desenvolvedor Web</span>
 	</p>
 </div>
 

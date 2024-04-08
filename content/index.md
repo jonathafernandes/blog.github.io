@@ -28,9 +28,10 @@ Então, prepare-se para embarcar em uma jornada empolgante e desafiadora pelo mu
 ---
 <div style="display: flex; align-items: center; gap: 0.5rem;">
 	<img src="https://github.com/jonathafernandes.png" style="border-radius: 50%; width: 60px;" />
-	<p>Jonatha Fernandes
+	<p>
+		<strong>Jonatha Fernandes</strong>
 		<br />
-		<i>Desenvolvedor Web</i>
+		<span style="opacity: 0.8;">Desenvolvedor Web</span>
 	</p>
 </div>
 
