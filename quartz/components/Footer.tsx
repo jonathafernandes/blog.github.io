@@ -21,6 +21,7 @@ export default ((opts?: Options) => {
             </li>
           ))}
         </ul>
+        <hr />
         <p>
           {i18n(cfg.locale).components.footer.createdWith}{" "}
           <a href="https://quartz.jzhao.xyz/">Quartz v{version}</a> &copy; {year}
