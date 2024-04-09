@@ -1,0 +1,16 @@
+---
+title: Sobre mim
+date: 2024-03-29
+---
+<div style="display: flex; flex-direction: column;">
+	<p>
+		<strong>Sou Jonatha Fernandes</strong>, tenho 29 anos, sou apaixonado por tecnologia e sempre me identifiquei muito com a área.  
+		Meu primeiro contato com programação foi na faculdade em 2018, onde iniciei o aprendizado em <em>Python</em>. Também tive contato com as linguagens <em>Java</em> e <em>SQL</em>. No momento tenho focado meus estudos no ecosistema de <em>JavaScript</em> com <em>React</em>, <em>Node.js</em> e <em>TypeScript</em>.
+		Estou na minha primeira experiência profissional com desenvolvimento web, enfrentando desafios e em busca de aperfeiçoamento pessoal.
+	</p>
+	<img src="../Images/sobre-mim-jonatha-fernandes.png" style="border: 1px solid #514796; border-radius: 3px; width: 30%;" />
+</div>
+
+Você pode me encontrar através do [LinkedIn](https://www.linkedin.com/in/jonathafernandes-/), [Instagram](https://instagram.com/_jonathafernandes) ou [Twiiter/X](https://twitter.com/_jonatha__). E ver meu projetos na minha página de [portfólio](https://jonathafernandes.vercel.app/) ou no [GitHub](https://github.com/jonathafernandes).
+
+---

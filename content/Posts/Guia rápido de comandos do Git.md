@@ -61,7 +61,7 @@ Algo que me ajuda durante o trabalho e os estudos é ter sempre por perto um gui
 
 ---
 <div style="display: flex; align-items: center; gap: 0.5rem;">
-	<img src="https://github.com/jonathafernandes.png" style="border-radius: 50%; width: 60px;" />
+	<img src="https://github.com/jonathafernandes.png" style="border: 1px solid #514796; border-radius: 50%; width: 60px;" />
 	<p>
 		<strong>Jonatha Fernandes</strong>
 		<br />
@@ -69,7 +69,7 @@ Algo que me ajuda durante o trabalho e os estudos é ter sempre por perto um gui
 	</p>
 </div>
 
-[Sobre mim](https://jonathafernandes.vercel.app/)
+🔗 Saiba mais [[sobre mim]]
 
 
 ---

@@ -36,7 +36,7 @@ O React é uma das principais e mais usadas bibliotecas JavaScript, sendo assim,
 
 ---
 <div style="display: flex; align-items: center; gap: 0.5rem;">
-	<img src="https://github.com/jonathafernandes.png" style="border-radius: 50%; width: 60px;" />
+	<img src="https://github.com/jonathafernandes.png" style="border: 1px solid #514796; border-radius: 50%; width: 60px;" />
 	<p>
 		<strong>Jonatha Fernandes</strong>
 		<br />
@@ -44,7 +44,7 @@ O React é uma das principais e mais usadas bibliotecas JavaScript, sendo assim,
 	</p>
 </div>
 
-[Sobre mim](https://jonathafernandes.vercel.app/)
+🔗 Saiba mais [[sobre mim]]
 
 
 ---
