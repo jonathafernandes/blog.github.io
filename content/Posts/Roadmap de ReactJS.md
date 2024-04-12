@@ -58,6 +58,12 @@ O React é uma das principais e mais usadas bibliotecas JavaScript, sendo assim,
 	- [ ] Aprenda a fazer requisições HTTP usando **Axios** e integre APIs externas em sua aplicação React.
 	- [ ] Trate erros e estados de carregamento ao fazer requisições assíncronas.
 
+<br/>
+
+🖱️ Caso queira, [clique aqui](./Downloads/RoadmapdeReactJS_1.pdf) para fazer o download do roadmap.
+
+<br/>
+
 **Para saber mais sobre o React**, consulte sua documentação [clicando aqui](https://pt-br.react.dev/). Até a próxima! 👋
 
 ---
