@@ -60,11 +60,11 @@ O React é uma das principais e mais usadas bibliotecas JavaScript, sendo assim,
 
 <br/>
 
-🖱️ Caso queira, [clique aqui](./Downloads/RoadmapdeReactJS_1.pdf) para fazer o download do roadmap.
+🖱️ Caso queira, <a href="./Downloads/RoadmapdeReactJS_1.pdf" target="_blank">clique aqui</a> para fazer o download do roadmap.
 
 <br/>
 
-**Para saber mais sobre o React**, consulte sua documentação [clicando aqui](https://pt-br.react.dev/). Até a próxima! 👋
+**Para saber mais sobre o React**, consulte sua documentação <a href="https://pt-br.react.dev/" target="_blank">clicando aqui</a>. Até a próxima! 👋
 
 ---
 <div style="display: flex; align-items: center; gap: 0.5rem;">
