@@ -2,6 +2,10 @@
 
 Criado com Quartz, Obsidian e GitHub Pages.
 
+<br/>
+
+🔗🖱️ **Visite**: https://jonathafernandes.github.io/blog.github.io/
+
 ---
 
 ### Quartz v4
