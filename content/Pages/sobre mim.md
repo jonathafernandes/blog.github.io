@@ -11,6 +11,6 @@ date: 2024-03-29
 	<img src="../Images/sobre-mim-jonatha-fernandes.png" style="border: 1px solid #514796; border-radius: 3px; width: 250px;" />
 </div>
 
-Você pode me encontrar através do [LinkedIn](https://www.linkedin.com/in/jonathafernandes-/), [Instagram](https://instagram.com/_jonathafernandes) ou [Twiiter/X](https://twitter.com/_jonatha__). E ver meu projetos na minha página de [portfólio](https://jonathafernandes.vercel.app/) ou no [GitHub](https://github.com/jonathafernandes).
+Você pode me encontrar através do <a href="https://www.linkedin.com/in/jonathafernandes-" target="_blank">LinkedIn</a>, <a href="https://instagram.com/_jonathafernandes" target="_blank">Instagram</a> ou <a href="https://twitter.com/_jonatha__" target="_blank">Twitter/X</a>. E ver meus projetos na minha página de <a href="https://jonathafernandes.vercel.app/" target="_blank">portfólio</a> ou no <a href="https://github.com/jonathafernandes" target="_blank">GitHub</a>.
 
 ---

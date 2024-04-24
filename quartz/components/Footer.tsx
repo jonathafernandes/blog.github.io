@@ -14,6 +14,9 @@ export default ((opts?: Options) => {
     return (
       <footer class={`${displayClass ?? ""}`}>
         <hr />
+        <span>&copy; {year} Jonatha Fernandes.</span>
+        <br/>
+        <br/>
         <ul>
           {Object.entries(links).map(([text, link]) => (
             <li>
@@ -24,7 +27,7 @@ export default ((opts?: Options) => {
         <hr />
         <p>
           {i18n(cfg.locale).components.footer.createdWith}{" "}
-          <a href="https://quartz.jzhao.xyz/">Quartz v{version}</a> &copy; {year}
+          <a href="https://quartz.jzhao.xyz/">Quartz v{version}</a> &copy; {year}.
         </p>
       </footer>
     )
