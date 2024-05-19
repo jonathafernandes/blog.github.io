@@ -32,7 +32,7 @@ Nesse tutorial vamos aprender a utilizar o Make para integrar o Habitica ao Noti
 ---
 6. Agora vamos criar a conexão entre o Make e o Habitica, para isso, vamos precisar da _Api Key_ e _User ID_ do seu usuário no Habitica. Basta ir até as configurções de sua conta no Habitica e clicar em `Dados do Site`, você terá acesso as informações. Copie e cole nos campos correspondentes. Feito isso, clique para salvar e depois `Save` de novo, para finalizar, clique em `OK`. Já temos nossa conexão com o Habitica.
 ---
-7. O processo é um pouco parecido com o Notion. Clique na logo e em seguida em `Create a connection`, escolha a opção Notion Public e renomeie ou deixa como está o nome da sua conexão. Depois disso, escolha qual página do Notion está o banco de dados que você deseja conectar ao Habitica.
+7. O processo é um pouco parecido com o Notion. Clique na logo e em seguida em `Create a connection`, escolha a opção _Notion Public_ e renomeie ou deixa como está o nome da sua conexão. Depois disso, escolha qual página do Notion está o banco de dados que você deseja conectar ao Habitica.
 ---
 8. Com a conexão ao Notion pronta, temos que escolher qual banco de dados vamos utilizar. Em `Enter a Database ID` escolha `Select from the list`, clique em `Search` abaixo e depois em `Ok`, vai ser feita uma busca de todas as suas bases de dados, escolha a que deseja.
 	<img src="../Images/Captura de tela de 2024-04-22 22-02-11.png" alt="" /> 
