@@ -6,7 +6,7 @@ tags:
   - "#DesenvolvimentoWeb"
   - "#DicasDeProgramação"
 ---
----
+<img src="../Images/principais-ides.jpg" alt="" />
 
 Uma IDE (Integrated Development Environment) é um ambiente de desenvolvimento integrado que oferece um conjunto de ferramentas para facilitar a programação. Geralmente, uma IDE típica inclui um **editor de código**, **compilador/interpretador**, **depurador**, ferramentas para organizar arquivos e diretórios, facilitando o **gerenciamento de projetos**, **integração com sistemas de controle de versão** e **ambientes de execução**.
 
