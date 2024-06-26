@@ -10,7 +10,7 @@ tags:
 
 Uma IDE (Integrated Development Environment) é um ambiente de desenvolvimento integrado que oferece um conjunto de ferramentas para facilitar a programação. Geralmente, uma IDE típica inclui um **editor de código**, **compilador/interpretador**, **depurador**, ferramentas para organizar arquivos e diretórios, facilitando o **gerenciamento de projetos**, **integração com sistemas de controle de versão** e **ambientes de execução**.
 
-Atualmente, temos o popular <a href="#" target="_blank">VSCode</a>, que, apesar de ser considerado um editor de código, pode funcionar como uma IDE completa devido à sua vasta gama de extensões e funcionalidades integradas, pois ele é altamente extensível.
+Atualmente, temos o popular <a href="https://code.visualstudio.com/" target="_blank">VSCode</a>, que, apesar de ser considerado um editor de código, pode funcionar como uma IDE completa devido à sua vasta gama de extensões e funcionalidades integradas, pois ele é altamente extensível.
 
 Hoje, apresentarei três das principais IDEs online para lhe ajudar no desenvolvimento web.
 
